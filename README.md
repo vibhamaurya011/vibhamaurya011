@@ -5,7 +5,8 @@ I'm a passionate Full Stack Web Developer with a strong foundation in the MERN s
 
 - 💻 Proficient in: JavaScript, React, Node.js, Express.js, MongoDB
 - 🌐 Building: Web applications, APIs, and more
-- 🚀 Always learning and exploring new technologies
+- 🌱 Always learning and exploring new technologies
+- 🚀 Visit my [Portfolio](https://vibhamaurya011.github.io/) to explore my work.
 
 ## Projects
 Here are some of my notable projects:
