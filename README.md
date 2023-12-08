@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+ # Welcome to My GitHub Profile 👋
 
 ## About Me
 I'm a passionate Full Stack Web Developer with a strong foundation in the MERN stack. My journey in the world of web development started with a rigorous 1000+ hour web development course at Masai School, India. Since then, I've been dedicated to honing my skills and creating innovative web solutions.
@@ -7,7 +7,7 @@ I'm a passionate Full Stack Web Developer with a strong foundation in the MERN s
 - 🌐 Building: Web applications, APIs, and more
 - 🌱 Always learning and exploring new technologies
 - 🚀 Visit my [Portfolio](https://vibhamaurya011.github.io/) to explore my work.
-- 🚀 Visit my [Resume](https://drive.google.com/file/d/14TeehVl6PGElVQnaBvvOlvyybi5kN0NN/view?usp=sharing) to explore my work.
+- 🚀 Visit my [Resume](https://drive.google.com/file/d/14TeehVl6PGElVQnaBvvOlvyybi5kN0NN/view?usp=sharing) to explore my work and education.
 
 ## Projects
 Here are some of my notable projects:
