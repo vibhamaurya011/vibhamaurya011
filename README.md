@@ -7,6 +7,7 @@ I'm a passionate Full Stack Web Developer with a strong foundation in the MERN s
 - 🌐 Building: Web applications, APIs, and more
 - 🌱 Always learning and exploring new technologies
 - 🚀 Visit my [Portfolio](https://vibhamaurya011.github.io/) to explore my work.
+- 🚀 Visit my [Resume](https://drive.google.com/file/d/14TeehVl6PGElVQnaBvvOlvyybi5kN0NN/view?usp=sharing) to explore my work.
 
 ## Projects
 Here are some of my notable projects:
